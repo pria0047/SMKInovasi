@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hallo Kediri</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">History of Kediri</string>
+    <string name="slide_1_desc">Berisi mengenai sejarah kota Kediri</string>
+
+    <string name="slide_2_title">Tourist Attraction</string>
+    <string name="slide_2_desc">Berisi daftar tempat wisata di kota Kediri</string>
+
+    <string name="slide_3_title">Souvenirs</string>
+    <string name="slide_3_desc">Berisi macam-macam oleh oleh khas kota Kediri</string>
+
+    <string name="slide_4_title">About Us</string>
+    <string name="slide_4_desc">Berisi informasi mengenai aplikasi yang dibuat dan pembuat aplikasi</string>
+
+    <string name="play_again_desc">Untuk melihat layar introslider, pergi Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_datawisata">datawisata</string>
+</resources>
