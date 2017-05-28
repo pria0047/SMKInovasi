@@ -30,5 +30,4 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="fragment_pertama">Hallo Fragment Pertama</string>
-    <string name="fragment_kedua">Hallo Fragment Kedua</string>
 </resources>
