@@ -13,7 +13,7 @@
     <string name="slide_2_desc">Berisi daftar tempat wisata di kota Kediri</string>
 
     <string name="slide_3_title">Souvenirs</string>
-    <string name="slide_3_desc">Berisi macam-macam oleh oleh khas kota Kediri</string>
+    <string name="slide_3_desc">Berisi macam-macam oleh-oleh khas kota Kediri</string>
 
     <string name="slide_4_title">About Us</string>
     <string name="slide_4_desc">Berisi informasi mengenai aplikasi yang dibuat dan pembuat aplikasi</string>
@@ -22,12 +22,13 @@
     <string name="play_again">Play Again</string>
     <string name="title_activity_datawisata">datawisata</string>
 
-    <string name="openDrawer">Drawer dibuka</string>
-    <string name="closeDrawer">Drawer ditutup</string>
-    <string name="navigation_view_item_1">Beranda</string>
-    <string name="navigation_view_item_2">Profil</string>
-    <string name="navigation_view_item_3">Daftar</string>
-    <string name="navigasi_kategori_2">Sub Item Navigasi</string>
-    <string name="navigation_view_item_4">Settings</string>
-    <string name="navigation_view_item_5">About</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_pertama">Hallo Fragment Pertama</string>
+    <string name="fragment_kedua">Hallo Fragment Kedua</string>
 </resources>
